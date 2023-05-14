@@ -1,0 +1,9 @@
+<resources>
+    <string name="registerTitle">Sign Up</string>
+    <string name="app_name">App</string>
+    <string name="loginTitle">Login</string>
+    <string name="phEmail">Please enter your email</string>
+    <string name="phPassword">Please enter your password</string>
+    <string name="registerButton">Sign Up</string>
+    <string name="loginButton">Log In</string>
+</resources>
